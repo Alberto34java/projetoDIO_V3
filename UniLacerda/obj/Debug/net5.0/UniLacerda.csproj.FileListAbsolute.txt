@@ -27,3 +27,15 @@ C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifol
 C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\obj\Debug\net5.0\ref\UniLacerda.dll
 C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\obj\Debug\net5.0\UniLacerda.pdb
 C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\obj\Debug\net5.0\UniLacerda.genruntimeconfig.cache
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\DnsClient.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\MongoDB.LibMongocrypt.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\Portifolio\projetoDIO_V3\UniLacerda\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
