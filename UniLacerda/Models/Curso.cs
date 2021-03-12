@@ -6,6 +6,7 @@ namespace Models
        public string  Nome { get; set; }
        public string  Descricao { get; set; }
        public string Duracao { get; set; }
-       
+       public Formacao Formacao { get; set; }
+       public string FormacaoId { get; set; }
     }
 }
