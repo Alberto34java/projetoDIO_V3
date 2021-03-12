@@ -1,3 +1,4 @@
+using System.Reflection;
 using System.Diagnostics;
 
 using System;
@@ -20,6 +21,27 @@ namespace Services
             var db=cli.GetDatabase("UniLacerdaDB");
             _cursos=db.GetCollection<Curso>("Curso");
             
+        } 
+
+        public List<Curso> Index()=> _cursos.Find(Curso=> true).ToList();
+        public Curso GetCurso(string id)=>_cursos.Find(curso=> curso.Id == id).FirstOrDefault();
+        public Curso SaveCurso(Curso curso)
+        {
+            _cursos.InsertOne(curso);
+            return curso;
         }
+
+        public Curso  Put(string id, Curso curso) {
+            _cursos.ReplaceOne(id,curso);
+            return curso;
+        }
+
+        public Curso DeleteCurso(string id) 
+            {
+                  var curso=  _cursos.Find(curso=> curso.Id == id).FirstOrDefault();
+                  _cursos.DeleteOne(curso=>curso.Id ==id);
+                  return curso;
+
+            }
     }
 }
