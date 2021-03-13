@@ -11,5 +11,6 @@ namespace Models
          [BsonRequired]
         [BsonElement]
         public string Nome { get; set; }
+        
     }
 }

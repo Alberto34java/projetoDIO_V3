@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj": {}
+    "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj": {
+    "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj",
+        "projectUniqueName": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj",
         "projectName": "UniLacerda",
-        "projectPath": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj",
+        "projectPath": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj",
         "packagesPath": "C:\\Users\\albertolacerda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\obj\\",
+        "outputPath": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albertolacerda\\AppData\\Roaming\\NuGet\\NuGet.Config",

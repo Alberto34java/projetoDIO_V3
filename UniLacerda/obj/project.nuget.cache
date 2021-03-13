@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "riuRf8YfbxmmYron9btUve7mRciMwFDfr0VJPTjERpCSJKfduYaiYeNiYAS1GuP3Gh3hXtQgjdu+FqQMLfv00Q==",
+  "dgSpecHash": "IX/D6SvgvHz8LBlHRKasQ2QWGshodvhZx/EUxpWlvAX7JXEJHshtPVSPBjD6bdxodn0YcyViTcPmZWC3WnwXyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj",
+  "projectFilePath": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDIO_V3\\UniLacerda\\UniLacerda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\albertolacerda\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
